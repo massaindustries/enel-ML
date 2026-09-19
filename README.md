@@ -1,4 +1,5 @@
 # LACHESI: Results-only Research Record
+<img width="550" height="337" alt="image" src="https://github.com/user-attachments/assets/39f0a511-c926-4eb8-ac1e-9709a5a71f85" />
 
 This repository is a public, results-only record of an independent research
 proof of concept on self-supervised bearing anomaly detection. It contains the
